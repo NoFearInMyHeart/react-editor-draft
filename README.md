@@ -31,6 +31,7 @@ Credit goes to the particular article's author, [Jeremy Kithome](https://blog.lo
 [MIT](LICENSE)
 
 
-
+## Article Url
+https://blog.logrocket.com/build-rich-text-editors-react-draft-js-react-draft-wysiwyg/#customizing-rich-text-editor-component
 
 # react-editor-draft
